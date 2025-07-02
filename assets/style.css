@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+} 
+
+body{
+    font-family: Roboto;
+}
+
+.upper-content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 30px;
+}
+
+#item-01{
+    align-self: flex-start;
+    position: relative;
+    top: 25px
+}
+
+.search-bar{
+    display: flex;
+    align-self: center;
+    border: 1px solid #CCCCCC;
+    position: relative;
+    top: 15px;
+    width: 500px;
+    height: 50px
+}
+
+.search-bar .search-icon{
+    background-color: #F8F8F8;
+    width: 65px;
+    margin-left: auto;
+    display: flex
+    
+}
+
+.search-icon img{
+    margin: auto
+}
+.search-bar p{
+    font-style: italic;
+    position: relative;
+    top: 12px;
+    left: 6px;
+    font-weight: lighter;
+   
+}
+#item-03{
+    align-self: flex-end;
+    display: flex
+}
+
+#pfp-icon{
+    border-radius: 50px;
+    width: 30px;
+}
+
+.sub-item{
+    margin-right: 7px;
+    position: relative;
+    left: 15px;
+}
+
+
+.sub-item2{
+    margin-left: 10px;
+    position: relative;
+    top: 10px;
+    right: 15px;
+}
+
+.main-content{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+.video{
+   position: relative;
+   left: 85px;
+}
+
+.video-title{
+    font-size: 10px;
+    font-weight: 600;
+    position: relative;
+    left: 85px
+}
+
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    column-gap: 6px;
+}
+
+.channel-logo img{
+    width: 60px;
+    border-radius: 50px;
+    position: relative;
+    left: 15px;
+}
+
+.channel-information{
+    position: relative;
+    left: 25px;
+}
+
+.channel-information h2{
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.channel-information h3{
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.subscribe-button button{
+    margin-left: 65px;
+    background-color: #ff0000;
+    color: #ffffff;
+    width: 150px;
+    height: 40px;
+    border-radius: 4px;
+    border: 1px solid #ff0000;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.like-button, .deslike-button, .share-button, .download-button{
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
+    gap: 8px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.description{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    left: 85px;
+}
+
+.description h3{
+    font-size: 14px;
+    font-weight: 600;
+}
+
+
+.description p{
+    width: 750px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.other-contents{
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+    gap: 16px;
+    position: absolute;
+    top: 120px;
+    right: 40px;
+    width: 350px;
+}
+
+.video-suggestion{
+    display: flex;
+    gap: 30px 30px
+}
