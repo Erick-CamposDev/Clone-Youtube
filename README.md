@@ -34,6 +34,3 @@ Durante essa atividade, pude:
 - Entender melhor como funciona a distribuição de espaço com Flexbox (`justify-content`, `align-items`, `flex-wrap`, etc).
 - Reproduzir elementos visuais reais com HTML e CSS puros.
 - Organizar o código de forma semântica e reutilizável.
-
-## 📷 Captura de Tela 
-![Imagem do Projeto](assets/images/Projeto%20Youtube%20Final.jpg)
