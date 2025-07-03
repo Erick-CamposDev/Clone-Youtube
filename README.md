@@ -36,4 +36,4 @@ Durante essa atividade, pude:
 - Organizar o código de forma semântica e reutilizável.
 
 ## 📷 Captura de Tela 
-![Imagem do Projeto](assets/images/Projeto%20Youtube%20Final.jpg)
+![Imagem do Projeto](assets/project%20image/Projeto%20Youtube%20Final.jpg)
