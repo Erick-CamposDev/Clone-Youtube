@@ -39,3 +39,4 @@ Durante essa atividade, pude:
 ![Imagem do Projeto](assets/project%20image/Projeto%20Youtube%20Final.jpg)
 
 ## 📎 Link do Projeto
+[Link para a página do projeto](https://erick-camposdev.github.io/Clone-Youtube/)
