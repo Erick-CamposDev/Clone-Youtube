@@ -40,3 +40,6 @@ Durante essa atividade, pude:
 
 ## 📎 Link do Projeto
 [Link para a página do projeto](https://erick-camposdev.github.io/Clone-Youtube/)
+
+## AVISO
+Esse projeto está osboleto, apenas foi usado para praticar HTML e CSS!
